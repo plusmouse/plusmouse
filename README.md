@@ -1,4 +1,4 @@
-I work on World of Warcraft addons, including Auctionator, putting in a lot of time and effort to make them work well.
+I work on World of Warcraft addons, including Auctionator, putting in a lot of time and effort, often every day, to make them work well and add new features.
 
 Addons I work on:
 - [Auctionator](https://github.com/Auctionator/Auctionator/) - Auction house addon, including shopping, selling and cancelling tabs and a full scan feature to save the current prices to show them in tooltips.
