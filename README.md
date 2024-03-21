@@ -9,7 +9,7 @@ Addons I work on:
 - [Point Blank Sniper](https://github.com/Auctionator/PointBlankSniper) - Find underpriced items quickly on the auction house with a well configured shopping list
 - [Craft Info Anywhere](https://github.com/plusmouse/CraftInfoAnywhere) - See the cost to craft and the reagents needed on the tooltip of any item
 
-You can support me in my efforts by sponsoring me [on Github](https://github.com/sponsors/plusmouse) or subscribing to [my Patreon](https://www.patreon.com/plusmouse)
+You can support me in my efforts by subscribing to [my Patreon](https://www.patreon.com/plusmouse)
 
 ### Development Policy
 1. For features, if it requires lots of explanation to get to the point of why it might be useful, scrap it 😛
