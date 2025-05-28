@@ -3,6 +3,7 @@ I work on World of Warcraft addons, including Auctionator, putting in a lot of t
 Addons I work on:
 - [Auctionator](https://github.com/Auctionator/Auctionator/) - Auction house addon, including shopping, selling and cancelling tabs and a full scan feature to save the current prices to show them in tooltips.
 - [Baganator](https://github.com/Baganator/Baganator/) - Category groups or single bag inventory addon, searching, sorting, browsing offline inventories, currency tracking and item location info tooltips.
+- [Chattynator](https://github.com/Chattynator/Chattynator/) - Chat frame overhaul. With smooth scrollings and many QoL features.
 - [Prat](https://github.com/Legacy-of-Sylvanaar/prat-3-0) - Chat addon, filtering messages and UI changes
 - [Journalator](https://github.com/Auctionator/Journalator/) - Tracks: Auction house activity, vendoring, questing, loot and crafting orders
 - [Collectionator](https://github.com/Auctionator/Collectionator/) - Shows unlearned transmog, pets, recipes, toys and mounts on the auction house.
